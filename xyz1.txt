@@ -1,0 +1,26 @@
+Login:
+
+UI:
+Login.html+Javascipts
+
+Backend:
+login.java -> 0 -> 1 -> 2
+
+Write more details
+
+
+SVN server <-> SVN Client (file by file)
+
+Local (git) <-> Remote (Github) --> Complete project
+
+Branch:
+- Master
+- Scrum-team-name-dev --> Feature complete + Testing
+- Scrum-team-name-dev
+
+- Add one more line
+
+Pre-req for Git hands-on:
+1. Github account (Remote)
+2. Install Git on your local system (Local)
+
